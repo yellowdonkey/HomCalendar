@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">HoM Calendar</string>
+
+    <string name="home">Home</string>
+    <string name="tab_1">HoM Calendar</string>
+    <string name="tab_2">Announcement</string>
+    <string name="tab_3">Ayat Confess</string>
+    <string name="tab_4">Schedule</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
